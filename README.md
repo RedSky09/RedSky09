@@ -1,20 +1,26 @@
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RedSky09/RedSky09/main/dist/pet.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RedSky09/RedSky09/main/dist/pet-light.svg">
-  <img alt="my github pet" src="https://raw.githubusercontent.com/RedSky09/RedSky09/main/dist/pet.svg" width="100%">
-</picture>
-# Hi there 👋
+## `$ whoami`
  
-*a random person who likes to code random things*
+```console
+redsky09@github:~$ whoami
+RedSky09
  
-</div>
-## 💻 Tech Stack
+redsky09@github:~$ cat about.txt
+a random person who likes to code random things
+ 
+redsky09@github:~$ echo $MOOD
+compiling... please wait
+ 
+redsky09@github:~$ sudo make coffee
+[sudo] password for redsky09: ********
+Brewing... done. ☕
+```
+ 
+## `$ ls ~/stack`
  
 <details>
-<summary><b>Klik untuk melihat tech stack</b></summary>
+<summary><code>ls -R ~/stack</code> <i>(klik untuk buka)</i></summary>
 <br>
-**Languages**
+**`languages/`**
  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -28,7 +34,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
  
-**Frameworks**
+**`frameworks/`**
  
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -41,7 +47,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
  
-**Data & ML**
+**`data-ml/`**
  
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -50,14 +56,14 @@
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
  
-**Database & Cloud**
+**`db-cloud/`**
  
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
  
-**Game & 3D**
+**`game-3d/`**
  
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
@@ -65,7 +71,7 @@
 ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge)
 ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
  
-**Tools**
+**`tools/`**
  
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
@@ -74,13 +80,21 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
  
 </details>
-## 📊 GitHub Stats
+## `$ gh stats --live`
  
 <div align="center">
-<img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RedSky09&theme=dark&hide_border=false&show_icons=true" />
-<img height="180" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedSky09&theme=dark&hide_border=false&layout=compact" />
+<img alt="GitHub contribution graph" src="https://github-readme-insight-terminal-asci.vercel.app/svg?user=RedSky09&theme=mac" />
+<img alt="GitHub stats" src="https://github-readme-insight-terminal-asci.vercel.app/svg/stats?user=RedSky09&theme=mac" />
+<img alt="Top languages" src="https://github-readme-insight-terminal-asci.vercel.app/svg/top-lang?user=RedSky09&theme=mac&top=8" />
 </div>
-## 🚀 Projects
+## `$ ls ~/projects`
  
-- [Tetris-with-C](https://github.com/RedSky09/Tetris-with-C)
-- [Navi](https://github.com/RedSky09/Navi)
+- [`Tetris-with-C/`](https://github.com/RedSky09/Tetris-with-C)
+- [`Navi/`](https://github.com/RedSky09/Navi)
+---
+ 
+```console
+redsky09@github:~$ exit
+logout
+Connection to github closed. See you around! 👋
+```
