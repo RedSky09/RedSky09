@@ -1,47 +1,20 @@
 <div align="center">
-# ⚔️ PLAYER PROFILE ⚔️
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RedSky09/RedSky09/main/dist/pet.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RedSky09/RedSky09/main/dist/pet-light.svg">
+  <img alt="my github pet" src="https://raw.githubusercontent.com/RedSky09/RedSky09/main/dist/pet.svg" width="100%">
+</picture>
+# Hi there 👋
  
-**`RedSky09`** · *a random person who likes to code random things*
- 
-![Status](https://img.shields.io/badge/STATUS-ONLINE-brightgreen?style=for-the-badge)
-![Class](https://img.shields.io/badge/CLASS-FULL--STACK_WIZARD-blueviolet?style=for-the-badge)
-![Mode](https://img.shields.io/badge/MODE-SIDE_QUESTING-orange?style=for-the-badge)
+*a random person who likes to code random things*
  
 </div>
----
- 
-## 📜 Character Sheet
- 
-```text
-╔══════════════════════════════════════════════╗
-║  NAME    : RedSky09                          ║
-║  CLASS   : Code Wizard (multiclass)          ║
-║  GUILD   : Solo Adventurer                   ║
-║  WEAPON  : Keyboard +5                       ║
-║  MANA    : Coffee ▓▓▓▓▓▓▓▓░░                 ║
-║  BUGS    : Defeated 999, Created 1000        ║
-╚══════════════════════════════════════════════╝
-```
- 
-## 🌳 Skill Tree
- 
-<!-- Angka bar cuma gaya-gayaan. Ubah sesuai kemampuanmu. -->
- 
-```text
-Python        ████████░░  Lv.8
-PHP / Laravel ███████░░░  Lv.7
-JavaScript    ██████░░░░  Lv.6
-C / C++       ██████░░░░  Lv.6
-Rust          █████░░░░░  Lv.5
-Game Dev      ████░░░░░░  Lv.4
-```
- 
-## 🎒 Inventory
+## 💻 Tech Stack
  
 <details>
-<summary><b>Klik untuk membuka tas</b> 🎒</summary>
+<summary><b>Klik untuk melihat tech stack</b></summary>
 <br>
-**⚔️ Weapons (Languages)**
+**Languages**
  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -55,7 +28,7 @@ Game Dev      ████░░░░░░  Lv.4
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
  
-**🛡️ Armor (Frameworks)**
+**Frameworks**
  
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -68,7 +41,7 @@ Game Dev      ████░░░░░░  Lv.4
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
  
-**🔮 Spellbook (Data & ML)**
+**Data & ML**
  
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -77,14 +50,14 @@ Game Dev      ████░░░░░░  Lv.4
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
  
-**🏰 Castle (Database & Cloud)**
+**Database & Cloud**
  
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
  
-**🎮 Side Quests (Game & 3D)**
+**Game & 3D**
  
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
@@ -92,7 +65,7 @@ Game Dev      ████░░░░░░  Lv.4
 ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge)
 ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
  
-**🧰 Utility Belt (Tools)**
+**Tools**
  
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
@@ -101,28 +74,13 @@ Game Dev      ████░░░░░░  Lv.4
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
  
 </details>
-## 📊 Live Stats
+## 📊 GitHub Stats
  
 <div align="center">
 <img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RedSky09&theme=dark&hide_border=false&show_icons=true" />
 <img height="180" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedSky09&theme=dark&hide_border=false&layout=compact" />
 </div>
-## 🗺️ Quest Log
+## 🚀 Projects
  
-| Quest | Status |
-|-------|--------|
-| [🧱 Tetris with C](https://github.com/RedSky09/Tetris-with-C) | ✅ Completed |
-| [🧭 Navi](https://github.com/RedSky09/Navi) | 🔨 In progress |
- 
-<details>
-<summary>🎁 Secret</summary>
-<br>
-`↑ ↑ ↓ ↓ ← → ← → B A` — **+30 lives unlocked.** Thanks for visiting! 🎮
- 
-</details>
----
- 
-<div align="center">
-`▶ PRESS START TO CONTINUE`
- 
-</div>
+- [Tetris-with-C](https://github.com/RedSky09/Tetris-with-C)
+- [Navi](https://github.com/RedSky09/Navi)
