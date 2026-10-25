@@ -1,10 +1,13 @@
 <h2><code>$ whoami</code></h2>
 <pre>redsky09@github:~$ whoami
 RedSky09
+&nbsp;
 redsky09@github:~$ cat about.txt
 a random person who likes to code random things
+&nbsp;
 redsky09@github:~$ echo $MOOD
 compiling... please wait
+&nbsp;
 redsky09@github:~$ sudo make coffee
 [sudo] password for redsky09: ********
 Brewing... done. ☕</pre>
