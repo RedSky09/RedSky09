@@ -74,7 +74,7 @@ Brewing... done. ☕</pre>
 <h2><code>$ ls ~/projects</code></h2>
 <ul>
   <li><a href="https://github.com/RedSky09/Tetris-with-C"><code>Tetris-with-C/</code></a></li>
-  <li><a href="https://github.com/RedSky09/Navi"><code>Navi/</code></a></li>
+  <li><a href="https://github.com/RedSky09/unferivied"><code>Unverified/</code></a></li>
 </ul>
 <hr>
 <pre>redsky09@github:~$ exit
